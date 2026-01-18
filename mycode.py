@@ -6,7 +6,7 @@ data = {'Name': ['Alice', 'Bob', 'Charlie'],
     'Age': [25, 30, 35],
     'City': ['New York', 'Los Angeles', 'Chicago']
     }
-
+#
 df = pd.DataFrame(data)
 
 # # Adding new row to df for V2
